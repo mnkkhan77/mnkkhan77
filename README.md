@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnkkhan (nasir khan)
-- 👀 I’m interested in developing Java Based Apps (Android apps)
+- 👀 I’m interested in developing Java Based Apps (specifically Android apps)
 - 🌱 I’m currently learning full stack java app development
 - 💞️ I’m looking to collaborate on any project regarding above mentioned techs
 - 📫 How to reach me ? drop a mail on mnkkhan77@gmail.com
