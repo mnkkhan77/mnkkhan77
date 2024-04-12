@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnkkhan (nasir khan)
+- 👋 Hi, I’m @mnkkhan77 (nasir khan)
 - 👀 I’m interested in developing Java Based (specifically Android apps) and React JS based applications
 - 🌱 I’m currently working as a full stack java developer with react js
 - 💞️ I’m looking to collaborate on any project regarding above mentioned techs
