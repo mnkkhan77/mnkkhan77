@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @mnkkhan77 (nasir khan)
-- 👀 I’m interested in developing Java Based (specifically Android apps) and React JS based applications
-- 🌱 I’m currently working as a full stack java developer with react js
-- 💞️ I’m looking to collaborate on any project regarding above mentioned techs
-- 📫 How to reach me ? drop a mail on mnkkhan77@gmail.com
-- 👤 Want to connect? here you go https://www.linkedin.com/in/mnkkhan77
+# Hi, I'm Nasir Khan 👋
 
-###
+Full stack engineer in Kolkata, 3.5 years building production systems in **Java / Spring Boot**, **NestJS / TypeScript** and **React**.
 
-<!---
-mnkkhan/mnkkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 Now: Full Stack Engineer at Growth Loops Technology, building Spring Boot + Kafka services and a NestJS/PostgreSQL platform with AI matchmaking, payments and real-time tracking
+- 🏢 Before: Full Stack Engineer at Cognizant
+- 🧰 Java, Spring Boot, JPA, Kafka, Redis, PostgreSQL, MySQL, NestJS, React, AWS, Docker
+- 🎯 Open to Java / Spring Boot roles
+
+📫 mnkkhan77@gmail.com · [linkedin.com/in/mnkkhan77](https://www.linkedin.com/in/mnkkhan77)
